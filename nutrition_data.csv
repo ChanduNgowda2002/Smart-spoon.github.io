@@ -1,0 +1,122 @@
+food,salt_mg,calories,protein_g,fat_g
+Idli,1342,534,28.4,11.0
+Pasta,1353,773,16.8,28.9
+Biryani,563,608,5.7,37.8
+Burger,336,527,4.2,9.5
+Salad,1495,120,2.8,43.8
+Fries,835,436,15.7,36.8
+Pizza,282,787,16.0,3.5
+Rice,512,202,2.1,38.3
+Noodles,383,717,29.4,6.7
+Sandwich,895,665,18.2,12.8
+Fried Chicken,1025,720,22.8,5.9
+Grilled Chicken,1177,104,25.1,26.1
+Steak,650,158,28.9,5.7
+Soup,1225,420,25.4,2.9
+Lasagna,288,125,24.8,1.3
+Tacos,748,662,28.1,32.2
+Sushi,1344,129,21.1,5.0
+Chili,1159,666,8.6,8.5
+Wrap,1322,542,2.5,17.1
+Hot Dog,290,503,24.3,36.2
+Ice Cream,1424,651,12.3,21.7
+Brownie,180,155,14.9,40.2
+Pancake,817,521,29.0,19.9
+Waffle,643,114,6.3,44.3
+Cupcake,142,114,8.9,43.5
+Muffin,990,599,26.1,19.6
+Cheesecake,302,389,22.0,28.4
+Smoothie,683,267,24.1,12.3
+Fruit Salad,860,762,17.9,27.4
+Toast,670,563,20.5,32.1
+Mashed Potatoes,766,729,21.6,16.6
+Roast Chicken,1156,249,13.6,20.0
+BBQ Ribs,1136,408,28.2,6.0
+Chicken Wings,534,139,14.4,14.1
+Popcorn,1034,341,28.1,35.4
+Chicken Caesar Salad,971,528,25.9,31.8
+Cheese Pizza,829,441,15.0,13.4
+Vegetable Soup,282,717,22.3,27.4
+Spaghetti,920,417,8.4,13.2
+Chicken Tenders,139,582,16.7,32.7
+Pasta Alfredo,956,130,29.2,42.0
+Fried Rice,615,303,15.1,10.4
+Vegetable Stir Fry,297,652,13.9,40.6
+Tofu Stir Fry,415,491,8.1,46.1
+Beef Stir Fry,65,117,25.2,48.6
+Vegetable Samosa,1344,342,21.1,39.4
+Chicken Samosa,978,181,24.3,25.9
+Falafel,741,610,9.2,9.1
+Hummus,147,120,8.0,14.2
+Chana Masala,428,782,13.2,6.6
+Paneer Butter Masala,664,587,22.0,42.3
+Butter Chicken,548,734,26.8,23.3
+Chicken Korma,1377,775,7.0,4.7
+Fish Curry,1326,729,19.4,13.6
+Shrimp Curry,256,278,10.0,5.7
+Prawn Masala,1003,775,17.7,5.6
+Vegetable Biryani,1401,590,20.7,38.8
+Chow Mein,284,191,19.6,20.9
+Pad Thai,1136,752,27.3,27.1
+Spring Roll,1280,108,24.0,7.8
+Egg Roll,544,573,15.5,19.2
+Frittata,1442,553,28.2,26.9
+Quiche,989,356,19.7,19.8
+Grilled Salmon,281,141,8.4,28.1
+Grilled Shrimp,1164,249,3.7,15.1
+Omelette,702,686,6.3,9.3
+Ceviche,241,486,29.2,4.0
+Pork Belly,873,310,28.1,11.8
+Beef Burrito,883,426,23.4,37.7
+Chicken Burrito,678,476,25.3,17.1
+Beef Tacos,1137,469,24.8,24.3
+Chicken Tacos,349,627,7.7,34.1
+Shawarma,400,599,6.1,18.4
+Gyro,1121,709,15.0,32.4
+Kebab,902,108,11.6,6.1
+Steamed Dumplings,1359,151,15.8,37.0
+Peking Duck,1133,786,5.9,20.3
+Ramen,1335,582,10.9,41.5
+Pho,1009,733,10.1,16.1
+Pasta Primavera,1459,498,3.7,21.7
+Fettuccine Alfredo,1404,380,6.3,45.9
+Mac and Cheese,347,320,2.8,10.9
+Chicken Pesto,1235,291,14.0,49.7
+Lamb Chops,1391,258,13.4,10.0
+Ratatouille,1031,121,13.8,7.9
+Moussaka,1071,757,17.6,20.1
+Crepes,1113,783,12.8,2.5
+Tempura,1398,103,20.9,12.9
+Sushi Rolls,634,664,11.1,21.7
+Crispy Chicken,1439,321,29.6,46.7
+Salmon Salad,1020,590,18.6,21.0
+Chicken Parmesan,510,360,27.5,8.6
+Eggplant Parmesan,613,717,23.9,13.5
+Cauliflower Rice,531,102,11.5,32.8
+Sweet Potato Fries,198,386,8.2,20.9
+Grilled Veggies,933,134,29.5,26.8
+Zucchini Noodles,511,671,20.9,46.8
+Quinoa Salad,1364,467,12.5,34.6
+Lentil Soup,665,497,19.1,18.3
+Minestrone,1049,355,16.5,9.7
+Pasta Carbonara,817,292,21.1,47.8
+Peking Duck,871,224,8.9,39.7
+Tempura Shrimp,106,287,22.8,41.8
+Chicken Fried Rice,700,184,11.7,34.5
+Vegetarian Chili,834,115,16.6,36.7
+Buffalo Wings,60,409,14.8,39.2
+Baked Potato,493,432,13.4,5.0
+Tuna Salad,478,655,13.6,31.9
+Shrimp Scampi,1333,399,14.9,20.7
+Clams,317,683,8.8,16.3
+Baked Salmon,1161,104,11.4,43.2
+Steak Frites,1447,531,8.9,43.5
+Chicken Biryani,335,711,20.7,34.5
+Vegetable Lasagna,101,294,3.9,39.1
+Lamb Shawarma,986,571,28.1,46.8
+Chicken Shawarma,1049,664,19.7,1.6
+Beef Kebabs,224,799,16.6,40.2
+Vegetarian Tacos,105,583,2.0,39.4
+Chicken Noodle Soup,1085,311,17.5,24.3
+Vegetable Wrap,265,443,16.1,1.2
+Fruit Smoothie,1262,315,18.6,15.5

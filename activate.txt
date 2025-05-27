@@ -1,0 +1,5 @@
+python3 -m venv ~/.venvs/myproject
+
+source ~/.venvs/myproject/bin/activate
+
+python3 app.py
